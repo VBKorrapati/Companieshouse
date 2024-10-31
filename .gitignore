@@ -1,0 +1,21 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore node modules
+node_modules/
+
+# Ignore package lock file
+package-lock.json
+
+# Ignore package.json (if you want to ignore it, but generally not recommended)
+# package.json
+
+# Ignore Playwright reports
+playwright-report/
+
+
+# Ignore test results
+test-results/
+
+# Ignore tests directory (if you want to ignore the entire tests directory)
+# tests/
